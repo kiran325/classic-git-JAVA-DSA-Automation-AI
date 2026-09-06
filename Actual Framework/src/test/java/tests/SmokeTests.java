@@ -1,7 +1,7 @@
 package tests;
 
-import com.kiran.framework.pages.*;
-import com.kiran.framework.utils.BaseTest;
+import Pages.*;
+import utils.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
